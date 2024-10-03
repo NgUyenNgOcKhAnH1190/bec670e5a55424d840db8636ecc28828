@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:NEXT DESTINATION
+size:18
+color:000000

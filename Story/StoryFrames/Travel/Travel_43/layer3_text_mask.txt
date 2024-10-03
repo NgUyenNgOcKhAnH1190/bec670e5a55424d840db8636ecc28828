@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:Tour
+size:72
+color:00c0bc

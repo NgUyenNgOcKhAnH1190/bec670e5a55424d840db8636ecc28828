@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:than alone in the light
+size:38
+color:000000

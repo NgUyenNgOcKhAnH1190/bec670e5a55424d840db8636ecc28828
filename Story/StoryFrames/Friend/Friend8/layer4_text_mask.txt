@@ -1,0 +1,4 @@
+font:Roboto-Regular.ttf
+text:FRIENDSHIP DAY
+size:90
+color:ffffff

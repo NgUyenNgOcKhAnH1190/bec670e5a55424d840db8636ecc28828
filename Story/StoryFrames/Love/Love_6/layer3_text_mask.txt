@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:I love you like life, do you know why? 
+size:48
+color:4b4434

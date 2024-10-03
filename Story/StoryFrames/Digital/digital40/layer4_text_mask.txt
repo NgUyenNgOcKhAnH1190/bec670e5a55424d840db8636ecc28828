@@ -1,0 +1,6 @@
+font:Montserrat-Bold.ttf
+text:40%\nOFF
+line:2
+size:40
+color:ffffff
+align:center

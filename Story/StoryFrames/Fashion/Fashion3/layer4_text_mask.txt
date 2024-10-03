@@ -1,0 +1,4 @@
+font:Montserrat-Regular.ttf
+text:BAD GIRL
+size:70
+color:ffffff

@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Morning of the first day
+size:36
+color:000000

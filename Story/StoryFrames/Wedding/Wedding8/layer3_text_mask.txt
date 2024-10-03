@@ -1,0 +1,4 @@
+font:Montserrat-Regular.ttf
+text:SAVE THE DATE
+size:40
+color:fafbfb

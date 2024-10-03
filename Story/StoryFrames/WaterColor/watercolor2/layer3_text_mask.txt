@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Ivitation Cards
+size:88
+color:9b623c

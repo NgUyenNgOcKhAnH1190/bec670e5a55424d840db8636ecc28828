@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:HELLO MONDAY
+size:50
+color:ffffff
+align:center

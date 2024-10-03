@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:SAVE UP TO
+size:30
+color:1a454a

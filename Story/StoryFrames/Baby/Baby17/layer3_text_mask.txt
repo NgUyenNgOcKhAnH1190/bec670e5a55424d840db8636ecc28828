@@ -1,0 +1,4 @@
+font:comicbd.ttf
+text:Baby William
+size:52
+color:275668

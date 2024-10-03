@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Mina
+size:48
+color:ffffff

@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:The only way to have a friend is to be one
+size:50
+color:000000

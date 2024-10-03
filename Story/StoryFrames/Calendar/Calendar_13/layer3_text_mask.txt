@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:love
+size:72
+color:dd8f8f

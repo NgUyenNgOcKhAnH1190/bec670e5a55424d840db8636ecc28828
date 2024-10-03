@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:TIME\nLESS
+line:2
+size:100
+color:000000

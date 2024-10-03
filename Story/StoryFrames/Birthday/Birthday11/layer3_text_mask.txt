@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Tada Baby
+size:42
+color:ffffff

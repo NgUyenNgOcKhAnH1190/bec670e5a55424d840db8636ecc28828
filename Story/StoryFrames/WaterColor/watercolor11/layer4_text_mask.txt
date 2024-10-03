@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:Happy
+size:72
+color:000000

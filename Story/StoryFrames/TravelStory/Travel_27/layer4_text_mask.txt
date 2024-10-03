@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:With Friends
+size:80
+color:000000

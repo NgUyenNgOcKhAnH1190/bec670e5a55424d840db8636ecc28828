@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:In lover’s sky
+size:48
+color:345325

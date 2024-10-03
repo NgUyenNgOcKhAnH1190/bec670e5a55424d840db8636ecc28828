@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:December please be good to me
+size:30
+color:94c4cb

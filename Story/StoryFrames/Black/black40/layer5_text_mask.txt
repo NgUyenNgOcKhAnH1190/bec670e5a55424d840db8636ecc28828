@@ -1,0 +1,5 @@
+font:Montserrat-Regular.ttf
+text:USE CODE: #BXG1823
+size:30
+color:ffffff
+align:left

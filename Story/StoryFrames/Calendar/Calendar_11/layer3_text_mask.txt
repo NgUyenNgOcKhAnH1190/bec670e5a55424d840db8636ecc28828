@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Make it a November to remember
+size:30
+color:db8a6a

@@ -1,0 +1,5 @@
+font:Montserrat-Refular.ttf
+text:ANNALYN & CHRISTOPHER
+size:30
+color:666666
+algin:center

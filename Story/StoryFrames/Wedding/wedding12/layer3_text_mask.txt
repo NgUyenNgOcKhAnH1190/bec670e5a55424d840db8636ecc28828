@@ -1,0 +1,5 @@
+font:Pacifico.ttf
+text:Minosi & Rokeso
+size:100
+color:46121a
+algin:center

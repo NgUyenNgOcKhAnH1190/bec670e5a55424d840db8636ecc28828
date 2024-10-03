@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Life doesn’t stop for anybody
+size:30
+color:ffffff

@@ -1,0 +1,6 @@
+font:Microsoft Himalaya.ttf
+text:AUTUMN\nFASHION
+line:2
+size:100
+color:000000
+align:center

@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:my heart jumped all over the place
+size:36
+color:d9002d

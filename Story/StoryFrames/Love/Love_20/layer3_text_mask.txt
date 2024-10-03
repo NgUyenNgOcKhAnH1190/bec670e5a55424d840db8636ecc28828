@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Love conquers all
+size:60
+color:160f0f

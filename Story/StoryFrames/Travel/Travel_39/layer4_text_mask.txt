@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:25% OFF
+size:47
+color:000000

@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:THE BEAUTY OF THE EMPLOYEES
+size:45
+color:4f311a

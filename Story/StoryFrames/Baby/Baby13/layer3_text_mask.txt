@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Alex Brown
+size:78
+color:17346e

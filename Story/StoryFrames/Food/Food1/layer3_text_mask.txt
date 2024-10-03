@@ -1,0 +1,4 @@
+font:Microsoft Himalaya.ttf
+text:Special
+size:165
+color:ffc155

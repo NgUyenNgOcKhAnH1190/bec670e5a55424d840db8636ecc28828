@@ -1,0 +1,6 @@
+font:Microsoft Himalaya.ttf
+text:SPRING\n\FASHION
+line:2
+size:130
+color:000000
+align:center

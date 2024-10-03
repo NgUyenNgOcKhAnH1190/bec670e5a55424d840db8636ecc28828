@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:My love
+size:72
+color:8c9aed

@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:SPECIAL TIME 
+size:60
+color:ffffff
+algin: center

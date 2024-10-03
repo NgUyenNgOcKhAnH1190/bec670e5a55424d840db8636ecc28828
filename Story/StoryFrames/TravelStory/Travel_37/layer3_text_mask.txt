@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Enjoy the view at sea
+size:29
+color:000000

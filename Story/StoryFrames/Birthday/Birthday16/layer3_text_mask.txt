@@ -1,0 +1,4 @@
+font:comicbd.ttf
+text:Love
+size:90
+color:da4358

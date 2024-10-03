@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Happy
+size:72
+color:e12a62

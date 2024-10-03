@@ -1,0 +1,5 @@
+font:Montserrat-Refular.ttf
+text:COLLECTION
+size:80
+color:ffffff
+algin:center

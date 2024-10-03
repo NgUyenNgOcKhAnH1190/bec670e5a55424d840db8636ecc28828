@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:WHAT’S ON\nYOUR TABLE\nTHIS WEEK.
+line:3
+size:60
+color:ffffff

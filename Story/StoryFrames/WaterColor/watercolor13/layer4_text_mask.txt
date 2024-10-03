@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Happy Weding
+size:60
+color:ffffff

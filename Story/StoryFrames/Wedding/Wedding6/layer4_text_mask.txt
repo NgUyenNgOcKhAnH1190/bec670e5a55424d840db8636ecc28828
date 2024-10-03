@@ -1,0 +1,4 @@
+font:Reey-Regular.otf
+text:Lorem ipsum dolor sit\namet, consectetuer 
+size:50
+color:231f20

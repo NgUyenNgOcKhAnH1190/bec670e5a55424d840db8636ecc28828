@@ -1,0 +1,4 @@
+font:comic.ttf
+text:Mother's beloved daughter
+size:24
+color:414141

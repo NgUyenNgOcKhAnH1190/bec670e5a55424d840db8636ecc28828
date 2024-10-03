@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Mina is beautiful
+size:48
+color:ffffff

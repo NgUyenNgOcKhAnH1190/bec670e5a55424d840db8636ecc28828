@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:Travel sale 30% off
+size:36
+color:000000

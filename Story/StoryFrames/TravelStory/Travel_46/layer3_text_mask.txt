@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Rowing Sightseeing
+size:36
+color:000000

@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:10/10/2021
+size:36
+color:15a3c1

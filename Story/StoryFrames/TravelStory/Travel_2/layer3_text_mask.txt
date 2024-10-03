@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:The first day
+size:24
+color:000000

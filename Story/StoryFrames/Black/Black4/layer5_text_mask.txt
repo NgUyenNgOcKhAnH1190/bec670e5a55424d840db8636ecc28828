@@ -1,0 +1,4 @@
+font:Microsoft Himalaya.ttf
+text:SPOTLIGHT
+size:200
+color:ff5500

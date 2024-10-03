@@ -1,0 +1,6 @@
+font:Montserrat-Regular.ttf
+text:Lorem ipsum dolor sit\namet, consectetuer\nadipiscing elit, sed diam 
+line:3
+size:30
+color:ffffff
+align:right

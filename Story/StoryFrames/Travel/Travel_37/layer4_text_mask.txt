@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:WORLD
+size:80
+color:ffffff

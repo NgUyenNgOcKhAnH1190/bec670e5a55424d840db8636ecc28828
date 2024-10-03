@@ -1,0 +1,4 @@
+font:comic.ttf
+text:My silence is just another word for pain
+size:27
+color:605b3f

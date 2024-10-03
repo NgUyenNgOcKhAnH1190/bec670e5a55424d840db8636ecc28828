@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:NOT TO SAVE
+size:36
+color:000000

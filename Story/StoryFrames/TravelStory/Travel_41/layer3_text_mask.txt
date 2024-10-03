@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Outdoor barbecue with family
+size:36
+color:714721

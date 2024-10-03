@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:GALA EVENING AT SEA
+size:24
+color:d5ad29

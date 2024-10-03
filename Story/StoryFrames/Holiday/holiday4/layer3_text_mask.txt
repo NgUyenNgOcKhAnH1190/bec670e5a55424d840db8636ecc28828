@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Maria & Tom
+size:73
+color:ffffff

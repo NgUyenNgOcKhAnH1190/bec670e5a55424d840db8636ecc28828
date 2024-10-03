@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:A great lover is not one who lover many
+size:48
+color:5c3b22

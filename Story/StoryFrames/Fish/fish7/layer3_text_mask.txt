@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:The sweetest thing
+size:62
+color:ffffff

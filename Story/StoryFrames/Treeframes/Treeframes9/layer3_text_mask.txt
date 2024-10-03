@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Happiness comes from within
+size:30
+color:ffffff

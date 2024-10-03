@@ -1,0 +1,4 @@
+font:FORTE.TTF
+text:Corbin Cute
+size:60
+color:ffffff

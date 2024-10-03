@@ -1,0 +1,4 @@
+font:Montserrat-Regular.ttf
+text:BEST DAY
+size:60
+color:ffffff

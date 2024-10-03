@@ -1,0 +1,5 @@
+font:Pacifico.ttf
+text:Best
+size:80
+color:a7998e
+algin:center

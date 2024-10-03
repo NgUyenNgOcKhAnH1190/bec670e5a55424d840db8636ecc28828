@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Lorem Ipsum
+size:36
+color:ffffff

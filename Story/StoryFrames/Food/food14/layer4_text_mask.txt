@@ -1,0 +1,5 @@
+font:Pacifico.ttf
+text:Everything
+size:80
+color:000000
+algin:center

@@ -1,0 +1,5 @@
+font:Montserrat-M.ttf
+text:KEEP IT COOL
+size:80
+color:ffffff
+align:left

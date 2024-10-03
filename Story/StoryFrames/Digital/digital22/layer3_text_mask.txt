@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:Peanut ‘s Stream
+size:40
+color:85dd01
+align:center

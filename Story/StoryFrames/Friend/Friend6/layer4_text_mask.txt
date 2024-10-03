@@ -1,0 +1,4 @@
+font:Roboto-Regular.ttf
+text:FRIEND
+size:130
+color:ffffff

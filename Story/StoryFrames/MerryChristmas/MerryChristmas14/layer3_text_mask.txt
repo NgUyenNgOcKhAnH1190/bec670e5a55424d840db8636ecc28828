@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Our love
+size:36
+color:d03434

@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:2nd day
+size:24
+color:e6a6ac

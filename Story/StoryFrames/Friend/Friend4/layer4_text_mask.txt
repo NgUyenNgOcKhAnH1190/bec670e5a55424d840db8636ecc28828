@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:Best Friend\nForever
+line:2
+size:70
+color:ffffff

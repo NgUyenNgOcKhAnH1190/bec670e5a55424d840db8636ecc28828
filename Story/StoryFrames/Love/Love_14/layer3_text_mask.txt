@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Thomas & Loda
+size:60
+color:d49654

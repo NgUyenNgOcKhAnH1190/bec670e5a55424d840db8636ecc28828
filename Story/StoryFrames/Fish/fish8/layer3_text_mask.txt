@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:BEAUTIFUL 
+size:44
+color:ffffff

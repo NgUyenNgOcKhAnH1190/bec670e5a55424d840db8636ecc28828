@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Lover 
+size:103
+color:ffffff

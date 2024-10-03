@@ -1,0 +1,4 @@
+font:Microsoft Himalaya.ttf
+text:The
+size:180
+color:000000

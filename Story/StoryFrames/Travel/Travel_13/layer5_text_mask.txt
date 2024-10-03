@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:OFF
+size:80
+color:131313

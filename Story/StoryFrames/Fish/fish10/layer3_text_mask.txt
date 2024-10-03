@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Lovely Day
+size:70
+color:ff8787

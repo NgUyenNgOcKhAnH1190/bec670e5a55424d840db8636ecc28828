@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Let Go
+size:67
+color:ffffff

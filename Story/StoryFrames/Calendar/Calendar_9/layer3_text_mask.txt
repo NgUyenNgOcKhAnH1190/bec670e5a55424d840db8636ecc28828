@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:MONTH OF LOVE
+size:40
+color:8ca28b

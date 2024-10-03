@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:26 May 2020
+size:47
+color:ffffff

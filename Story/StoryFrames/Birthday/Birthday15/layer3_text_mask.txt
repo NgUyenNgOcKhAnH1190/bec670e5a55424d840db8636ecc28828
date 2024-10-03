@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Cherry Cute
+size:60
+color:9e5541

@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:TO
+size:90
+color:383533

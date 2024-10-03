@@ -1,0 +1,6 @@
+font:Montserrat-Bold.ttf
+text:“Lorem ipsum dolor sit ametconsec\nteapiscing elit, sediam nonummy” 
+line:2
+size:15
+color:000000
+align:left

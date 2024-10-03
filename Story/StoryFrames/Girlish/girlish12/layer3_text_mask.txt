@@ -1,0 +1,5 @@
+font:Montserrat-Regular.ttf
+text:JUST A GIRL
+size:60
+color:fcada7
+algin:center

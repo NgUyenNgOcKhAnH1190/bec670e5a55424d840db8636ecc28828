@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Welcome
+size:72
+color:a8fff7

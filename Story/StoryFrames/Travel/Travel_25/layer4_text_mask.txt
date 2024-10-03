@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:A journey is best measured in friends
+size:48
+color:684c42

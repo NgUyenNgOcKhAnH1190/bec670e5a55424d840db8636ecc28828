@@ -1,0 +1,4 @@
+font:Montserrat-Bold.ttf
+text:TIMELESS
+size:80
+color:000000

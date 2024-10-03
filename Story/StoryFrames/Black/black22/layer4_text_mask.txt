@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:Choose
+size:120
+color:c6d8bf
+align:left

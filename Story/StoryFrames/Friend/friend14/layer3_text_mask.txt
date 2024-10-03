@@ -1,0 +1,6 @@
+font:Montserrat-Regular.ttf
+text:True friends are always\ntoghether in spirit.
+line:2
+size:35
+color:003961
+algin:center

@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Family members are like branches on a tree
+size:36
+color:000000

@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:you must raise children yourself.
+size:18
+color:af7a83

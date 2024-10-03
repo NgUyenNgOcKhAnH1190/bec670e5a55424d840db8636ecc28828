@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:A Happy Life
+size:48
+color:ffffff

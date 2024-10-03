@@ -1,0 +1,4 @@
+font:Microsoft Himalaya.ttf
+text:Special Menu
+size:160
+color:000000

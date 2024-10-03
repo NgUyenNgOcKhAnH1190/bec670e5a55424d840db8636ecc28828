@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:TRAVEL PLACE
+size:48
+color:f6b736

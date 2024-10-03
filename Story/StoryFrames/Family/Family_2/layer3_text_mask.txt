@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Family is where the life begins 
+size:48
+color:5f6a9c

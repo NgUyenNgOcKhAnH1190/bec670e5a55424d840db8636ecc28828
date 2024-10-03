@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Happy small family
+size:60
+color:81adb4

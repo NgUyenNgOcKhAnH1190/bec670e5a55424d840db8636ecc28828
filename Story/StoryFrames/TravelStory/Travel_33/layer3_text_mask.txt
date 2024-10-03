@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Travel with friends
+size:40
+color:000000

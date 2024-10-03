@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Love Forever
+size:48
+color:5c3b22

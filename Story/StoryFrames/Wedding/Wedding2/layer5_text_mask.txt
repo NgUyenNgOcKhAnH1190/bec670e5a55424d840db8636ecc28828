@@ -1,0 +1,4 @@
+font:Montserrat-Regular.ttf
+text:22 APRIL 2020 . 12PM
+size:40
+color:414141

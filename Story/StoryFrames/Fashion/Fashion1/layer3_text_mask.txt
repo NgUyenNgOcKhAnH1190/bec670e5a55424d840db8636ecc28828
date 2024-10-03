@@ -1,0 +1,6 @@
+font:Montserrat-Regular.ttf
+text:FASHION WEEK
+size:70
+color:d3a07ct
+rotate:90
+left:-106.867-606.725

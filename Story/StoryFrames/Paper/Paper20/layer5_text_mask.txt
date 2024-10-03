@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:SUMMER COLLEC TION
+size:60
+color:ffffff

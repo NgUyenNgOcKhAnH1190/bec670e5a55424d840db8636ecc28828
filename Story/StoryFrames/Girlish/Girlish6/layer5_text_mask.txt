@@ -1,0 +1,4 @@
+font:Montserrat-Bold.ttf
+text:Make Your Story
+size:65
+color:000000

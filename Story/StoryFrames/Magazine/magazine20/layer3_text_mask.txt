@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:NEW
+size:200
+color:ffffff
+algin:center

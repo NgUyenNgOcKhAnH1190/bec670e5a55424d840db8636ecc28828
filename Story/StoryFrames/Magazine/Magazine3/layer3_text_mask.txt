@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:NEW\nCOL-\nLEC\nTION
+line:4
+size:100
+color:000000

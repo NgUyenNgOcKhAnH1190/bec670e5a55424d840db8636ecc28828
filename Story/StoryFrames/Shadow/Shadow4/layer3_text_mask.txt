@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Beautiful friendship
+size:48
+color:767c5f

@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:We travel not to escape life
+size:36
+color:462408

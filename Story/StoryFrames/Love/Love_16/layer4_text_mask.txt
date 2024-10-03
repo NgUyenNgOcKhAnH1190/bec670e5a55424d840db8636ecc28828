@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Love my girl forever 
+size:75
+color:ffffff

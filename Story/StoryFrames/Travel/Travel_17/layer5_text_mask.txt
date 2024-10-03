@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:but for life not to escape us
+size:36
+color:462408

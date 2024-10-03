@@ -1,0 +1,4 @@
+font:Brush Script MT
+text:Our destination is not a land, but a new way of looking.
+size:36
+color:000000

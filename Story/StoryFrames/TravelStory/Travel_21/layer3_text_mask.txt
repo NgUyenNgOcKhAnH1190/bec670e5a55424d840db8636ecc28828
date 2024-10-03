@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:CAMPING AND
+size:18
+color:000000

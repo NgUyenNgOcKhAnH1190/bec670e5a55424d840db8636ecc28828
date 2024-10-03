@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:READY
+size:48
+color:ffffff

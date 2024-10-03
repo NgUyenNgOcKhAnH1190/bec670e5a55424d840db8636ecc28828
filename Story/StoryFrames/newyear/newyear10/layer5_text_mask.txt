@@ -1,0 +1,5 @@
+font:Pacifico.ttf
+text:Party
+size:150
+color:000000
+align:center

@@ -1,0 +1,5 @@
+font:Pacifico.ttf
+text:Eat
+size:150
+color:54604d
+algin:center

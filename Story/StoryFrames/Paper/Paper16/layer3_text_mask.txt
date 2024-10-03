@@ -1,0 +1,4 @@
+font:MYRIADPRO-REGULAR.OTF
+text:JUM SHOP
+size:81
+color:000000

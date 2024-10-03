@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Love Family
+size:60
+color:e07516

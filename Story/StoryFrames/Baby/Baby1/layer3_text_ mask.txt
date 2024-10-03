@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Do not take life too seriously
+size:60
+color:ffffff

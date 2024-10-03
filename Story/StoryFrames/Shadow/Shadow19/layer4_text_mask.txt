@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:I’D SEND YOU THE SEA
+size:36
+color:486971

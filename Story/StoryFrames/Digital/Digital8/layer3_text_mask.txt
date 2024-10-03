@@ -1,0 +1,5 @@
+font:Roboto-Regular.ttf
+text:Lorem ipsum dolor sit amet,\nconsectetuer adipiscing elit, sed\ndiam nonummy nibh euismod
+line:3
+size:30
+color:ffffff

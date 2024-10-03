@@ -1,0 +1,4 @@
+font:Microsoft Himalaya.ttf
+text:FASHION
+size:150
+color:000000

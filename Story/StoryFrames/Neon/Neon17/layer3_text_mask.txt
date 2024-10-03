@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Thanks You
+size:64
+color:92abfd

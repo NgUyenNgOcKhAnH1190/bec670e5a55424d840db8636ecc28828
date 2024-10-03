@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Ely Jomeo
+size:98
+color:ffffff

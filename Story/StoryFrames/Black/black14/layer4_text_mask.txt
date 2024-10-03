@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:MIDNIGHT PARTY / LIGHT SHOW
+size:23
+color:fe20a3
+algin:left

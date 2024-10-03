@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Summer Vibes
+size:30
+color:ffffff

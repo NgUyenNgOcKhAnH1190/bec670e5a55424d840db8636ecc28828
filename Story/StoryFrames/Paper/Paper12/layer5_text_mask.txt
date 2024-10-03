@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:And friends leave, Life doesn’t stop for anybody
+size:36
+color:5c646b

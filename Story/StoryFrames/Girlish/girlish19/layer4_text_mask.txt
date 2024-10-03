@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:You got\nthis GIRL
+size:100
+color:ffb6c1
+algin:left

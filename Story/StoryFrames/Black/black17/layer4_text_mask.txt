@@ -1,0 +1,6 @@
+font:Montserrat-Bold.ttf
+text:The definition of virtual reality comes,\nnaturally, from the definitions for\nboth ‘virtual’ and ‘reality’.
+light:3
+size:30
+color:bfc603
+algin:left

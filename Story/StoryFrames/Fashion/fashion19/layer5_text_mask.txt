@@ -1,0 +1,6 @@
+font:Montserrat-Regular.ttf
+text:Lorem ipsum dolor sit amet, consectetuer adipiscing elit,\nsed diam nonummy nibh euismod tincidunt ut laoreet\ndolore magna aliquam erat volutpat.
+line:3
+size:25
+color:a7998e
+algin:center

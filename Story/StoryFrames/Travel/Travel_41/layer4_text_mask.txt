@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:Travel Sale
+size:100
+color:00c0bc

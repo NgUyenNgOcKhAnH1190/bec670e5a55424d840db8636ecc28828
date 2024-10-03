@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:New York
+size:72
+color:676767

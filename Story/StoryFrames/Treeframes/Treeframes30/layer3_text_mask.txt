@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Dad a son’s first hero
+size:24
+color:84522e

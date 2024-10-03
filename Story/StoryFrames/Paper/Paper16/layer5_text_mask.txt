@@ -1,0 +1,4 @@
+font:FORTE.TTF
+text:50% OFF
+size:60
+color:80775b

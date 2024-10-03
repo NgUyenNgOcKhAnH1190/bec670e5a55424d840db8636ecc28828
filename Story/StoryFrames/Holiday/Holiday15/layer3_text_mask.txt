@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:TUESDAY FEBRUARY 14
+size:24
+color:faf3d4

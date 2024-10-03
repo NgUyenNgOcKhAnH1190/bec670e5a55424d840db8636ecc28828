@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Maria
+size:80
+color:ffffff

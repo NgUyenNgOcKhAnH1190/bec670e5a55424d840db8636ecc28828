@@ -1,0 +1,5 @@
+font:Montserrat-Regular.ttf
+text:Lorem ipsum dolor sit\namet, consectetur\nadipisg elit, sedo eiusmod\ntempor incididunt.”
+line:4
+size:40
+color:ffffff

@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Travel Abroad
+size:60
+color:389697

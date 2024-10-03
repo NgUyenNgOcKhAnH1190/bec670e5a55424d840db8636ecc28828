@@ -1,0 +1,4 @@
+font:FREESCPT.TTF
+text:Sweet Stawberry
+size:80
+color:ffffff

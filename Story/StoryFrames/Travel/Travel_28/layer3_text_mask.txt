@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Travel Promo
+size:90
+color:ffffff

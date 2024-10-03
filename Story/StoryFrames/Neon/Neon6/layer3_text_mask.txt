@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Simple Love
+size:72
+color:ffffff

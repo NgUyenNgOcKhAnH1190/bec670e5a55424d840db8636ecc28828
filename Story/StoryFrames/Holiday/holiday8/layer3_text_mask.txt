@@ -1,0 +1,4 @@
+font:FORTE.TTF
+text:Anna & Jam
+size:45
+color:ffffff

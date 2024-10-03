@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:TOURIST READY
+size:24
+color:000000

@@ -1,0 +1,5 @@
+font:Montserrat-Regular.ttf
+text:GIRL LIKE YOU
+size:35
+color:ffffff
+algin:left

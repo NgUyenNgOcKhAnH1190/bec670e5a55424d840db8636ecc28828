@@ -1,0 +1,5 @@
+font:Montserrat-Regular.ttf
+text:& LIFESTYLE
+size:100
+color:3b403a
+algin:left

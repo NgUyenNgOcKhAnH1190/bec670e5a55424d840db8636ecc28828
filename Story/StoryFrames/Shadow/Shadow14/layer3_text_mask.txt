@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:New
+size:93
+color:000000

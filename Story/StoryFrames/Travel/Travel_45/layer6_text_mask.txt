@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:HAPPY TRAVEL
+size:30
+color:ffffff

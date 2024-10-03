@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:Tom and Cherry
+size:70
+color:244e62

@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Thomas & Anna
+size:36
+color:ffffff

@@ -1,0 +1,4 @@
+font:FORTE.TTF
+text:Hello Summer
+size:112
+color:ffad43

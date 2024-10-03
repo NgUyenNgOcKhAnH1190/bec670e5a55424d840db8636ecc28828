@@ -1,0 +1,4 @@
+font:comicbd.ttf
+text:JULIA HAPPY
+size:60
+color:353535

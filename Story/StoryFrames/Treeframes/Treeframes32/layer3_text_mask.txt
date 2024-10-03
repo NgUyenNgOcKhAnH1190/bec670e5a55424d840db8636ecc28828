@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:If you have a place to go, is a home
+size:24
+color:98b05f

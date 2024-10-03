@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:we all grow in different directions, yet our roots remain as one
+size:36
+color:000000

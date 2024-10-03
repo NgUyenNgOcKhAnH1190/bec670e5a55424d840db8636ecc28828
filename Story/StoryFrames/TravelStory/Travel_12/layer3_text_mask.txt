@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:See you later
+size:36
+color:ffffff

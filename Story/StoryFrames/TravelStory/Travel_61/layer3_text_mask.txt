@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Goodbye!
+size:36
+color:000000

@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Always Happy
+size:48
+color:000000

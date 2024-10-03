@@ -1,0 +1,4 @@
+font:comicbd.ttf
+text:My Love
+size:36
+color:605b3f

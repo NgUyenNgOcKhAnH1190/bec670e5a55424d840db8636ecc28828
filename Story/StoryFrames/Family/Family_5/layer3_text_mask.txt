@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Love Baby
+size:48
+color:ffffff

@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:ECOLOGICAL FORESTRY
+size:24
+color:000000

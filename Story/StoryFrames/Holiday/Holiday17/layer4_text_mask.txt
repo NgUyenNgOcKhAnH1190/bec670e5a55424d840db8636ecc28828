@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Women’s Day
+size:72
+color:282828

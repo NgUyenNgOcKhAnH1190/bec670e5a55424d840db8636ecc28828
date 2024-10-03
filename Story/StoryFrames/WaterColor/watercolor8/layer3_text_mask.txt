@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:I love You
+size:72
+color:2d4017

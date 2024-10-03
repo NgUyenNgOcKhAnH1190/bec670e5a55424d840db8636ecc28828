@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Day to the most amazing women I know
+size:45
+color:d57f23

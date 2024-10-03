@@ -1,0 +1,4 @@
+font:SVN-Agency FB.ttf
+text:Movie Day
+size:80
+color:ffffff

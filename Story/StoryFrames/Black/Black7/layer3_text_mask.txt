@@ -1,0 +1,4 @@
+font:Montserrat-Bold.ttf
+text:BEST
+size:150
+color:85dd00

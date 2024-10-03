@@ -1,0 +1,4 @@
+font:Reey-Regular.otf
+text:Friendship day
+size:120
+color:000000

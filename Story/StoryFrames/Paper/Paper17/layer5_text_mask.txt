@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:amet eleifend id, sed neque
+size:36
+color:5e5e5e

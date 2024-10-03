@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:LOVE BABY
+size:60
+color:294961

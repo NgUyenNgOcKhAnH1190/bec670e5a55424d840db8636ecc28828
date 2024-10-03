@@ -1,0 +1,4 @@
+font:Milkshake.ttf
+text:World Movie Day
+size:60
+color:5f3f3d

@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:30%
+size:140
+color:131313

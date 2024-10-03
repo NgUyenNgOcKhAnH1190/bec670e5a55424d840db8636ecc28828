@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Hello February Girl
+size:36
+color:ffffff

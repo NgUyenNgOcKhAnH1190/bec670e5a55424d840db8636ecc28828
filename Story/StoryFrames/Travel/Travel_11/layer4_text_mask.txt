@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:FAMILY SALE
+size:55
+color:ffffff

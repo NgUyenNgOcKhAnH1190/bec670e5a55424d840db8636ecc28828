@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:BE WHERE YOUR FEET ARE
+size:50
+color:ffffff

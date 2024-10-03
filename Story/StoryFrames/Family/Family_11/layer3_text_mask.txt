@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Family is the most important thing in the world
+size:48
+color:414141

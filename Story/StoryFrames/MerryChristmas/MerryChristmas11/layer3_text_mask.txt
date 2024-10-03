@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Warm Christmas
+size:60
+color:3d8d68

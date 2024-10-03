@@ -1,0 +1,4 @@
+font:Microsoft Himalaya.ttf
+text:time
+size:200
+color:5e5d5b

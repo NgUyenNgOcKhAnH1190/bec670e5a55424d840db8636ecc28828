@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:Spread\nthe love on
+line:3
+size:100
+color:a6624a

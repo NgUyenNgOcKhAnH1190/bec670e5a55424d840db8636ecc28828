@@ -1,0 +1,4 @@
+font:FORTE.TTF
+text:Youth is the gift Of natre 
+size:58
+color:ffffff

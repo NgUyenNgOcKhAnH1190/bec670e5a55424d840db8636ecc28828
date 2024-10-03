@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Having somewhere to go is home
+size:44
+color:ffffff

@@ -1,0 +1,4 @@
+font:comicbd.ttf
+text:35 weeks
+size:66
+color:ffffff

@@ -1,0 +1,5 @@
+font:Montserrat-Regular.ttf
+text:ONLINE EXCLUSIVE
+size:30
+color:ffffff
+align:left

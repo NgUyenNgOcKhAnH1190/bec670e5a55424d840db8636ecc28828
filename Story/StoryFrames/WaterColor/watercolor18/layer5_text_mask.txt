@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:JULY 18, AT 5:00P.M
+size:24
+color:353535

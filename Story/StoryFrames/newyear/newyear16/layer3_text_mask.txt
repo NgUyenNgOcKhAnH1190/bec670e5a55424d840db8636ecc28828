@@ -1,0 +1,6 @@
+font:Montserrat-Regular.ttf
+text:For last year's words belong to last year's language.\nAnd next year's words await another voice.
+line:2
+size:30
+color:000000
+align:left

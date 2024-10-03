@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:SPAGHETTI
+size:100
+color:ffb703
+algin:center

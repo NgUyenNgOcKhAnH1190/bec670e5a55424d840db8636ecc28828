@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Everlasting Love
+size:75
+color:835e1c

@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:The greatest legacy we can leave our children is...
+size:48
+color:58667e

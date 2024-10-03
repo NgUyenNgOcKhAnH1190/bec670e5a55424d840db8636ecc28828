@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:VIRTUAL REALITY
+size:70
+color:ffffff
+algin:left

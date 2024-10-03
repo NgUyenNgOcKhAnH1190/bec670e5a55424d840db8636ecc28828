@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Love
+size:72
+color:ffffff

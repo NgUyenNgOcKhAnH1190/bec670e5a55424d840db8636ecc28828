@@ -1,0 +1,4 @@
+font:Reey-Regular.otf
+text:Save the date
+size:80
+color:827043

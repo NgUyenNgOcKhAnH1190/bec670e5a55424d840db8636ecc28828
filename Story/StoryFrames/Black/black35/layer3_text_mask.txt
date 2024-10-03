@@ -1,0 +1,5 @@
+font:FREESCPT.TTF
+text:#Lion
+size:200
+color:ffd7d4
+align:left

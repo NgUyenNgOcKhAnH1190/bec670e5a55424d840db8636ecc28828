@@ -1,0 +1,6 @@
+font:Roboto-Bold.ttf
+text:05\nT9
+line:2
+size:100
+color:ffffff
+align:center

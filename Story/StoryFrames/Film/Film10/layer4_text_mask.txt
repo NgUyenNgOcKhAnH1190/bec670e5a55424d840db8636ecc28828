@@ -1,0 +1,6 @@
+font:SVN-Agency FB bold.ttf
+text:LIVE THE\nEXPERIENCE\nIN COMPANY
+line:3
+size:80
+color:ffffff
+align:left

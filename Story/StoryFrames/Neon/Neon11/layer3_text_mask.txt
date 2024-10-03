@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Night City
+size:60
+color:6afdff

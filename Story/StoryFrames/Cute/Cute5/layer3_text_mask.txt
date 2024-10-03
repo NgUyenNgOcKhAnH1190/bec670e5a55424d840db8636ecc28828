@@ -1,0 +1,4 @@
+font:Milkshake.ttf
+text:My rainy\ndays Plans
+size:95
+color:48422d

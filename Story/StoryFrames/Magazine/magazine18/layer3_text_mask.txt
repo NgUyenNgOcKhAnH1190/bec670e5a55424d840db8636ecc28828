@@ -1,0 +1,5 @@
+font:Montserrat-Refular.ttf
+text:NOV 2020
+size:30
+color:3b403a
+algin:left

@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Dive and see coral
+size:30
+color:000000

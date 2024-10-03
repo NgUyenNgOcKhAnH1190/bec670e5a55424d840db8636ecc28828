@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Hello Summer
+size:72
+color:ffffff

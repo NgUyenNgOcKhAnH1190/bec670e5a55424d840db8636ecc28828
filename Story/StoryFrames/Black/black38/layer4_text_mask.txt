@@ -1,0 +1,5 @@
+font:Montserrat-Medium.ttf
+text:SPECIALDAY
+size:70
+color:00dc00
+align:left

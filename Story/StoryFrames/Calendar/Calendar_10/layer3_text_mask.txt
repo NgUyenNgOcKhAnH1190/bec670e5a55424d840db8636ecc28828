@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:GIRL OF OCTOBER
+size:30
+color:cb7a4e

@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Happy party
+size:30
+color:b76363

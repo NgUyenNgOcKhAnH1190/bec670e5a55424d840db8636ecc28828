@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:COOL STYLE
+size:50
+color:ffffff
+algin:left

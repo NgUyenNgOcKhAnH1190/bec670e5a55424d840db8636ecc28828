@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Happy Weekend
+size:48
+color:000000

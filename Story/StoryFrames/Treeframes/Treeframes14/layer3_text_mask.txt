@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Journey 3-month-old baby love
+size:24
+color:905a42

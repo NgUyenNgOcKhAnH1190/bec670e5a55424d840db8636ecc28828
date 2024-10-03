@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Love Gema
+size:66
+color:ffffff

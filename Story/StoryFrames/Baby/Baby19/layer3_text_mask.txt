@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Baby Cute
+size:72
+color:576fac

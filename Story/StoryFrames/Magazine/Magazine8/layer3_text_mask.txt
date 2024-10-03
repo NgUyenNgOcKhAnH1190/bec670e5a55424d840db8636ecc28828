@@ -1,0 +1,4 @@
+font:Montserrat-Bold.ttf
+text:Lorem ipsum dolor sit amet, consectetuer 
+size:30
+color:000000

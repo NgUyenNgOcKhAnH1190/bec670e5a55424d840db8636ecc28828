@@ -1,0 +1,4 @@
+font:Montserrat-Bold.ttf
+text:SPECIAL
+size:80
+color:ffffff

@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:If you have someone to love , is a family
+size:24
+color:588d12

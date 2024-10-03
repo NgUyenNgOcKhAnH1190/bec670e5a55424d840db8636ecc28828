@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:BEAUTIFUL AND HAPPY
+size:36
+color:000000

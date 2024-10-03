@@ -1,0 +1,5 @@
+font:FREESCPT.TTF
+text:Lovely
+size:150
+color:ffd4ca
+align:left

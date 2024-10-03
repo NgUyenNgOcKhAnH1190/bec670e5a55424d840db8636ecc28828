@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:Up To 75% Off
+size:40
+color:3ca4be

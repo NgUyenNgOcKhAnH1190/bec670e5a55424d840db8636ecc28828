@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:BEAUTY OF NATURE
+size:60
+color:ffffff

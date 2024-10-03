@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:BOY
+size:124
+color:39adce

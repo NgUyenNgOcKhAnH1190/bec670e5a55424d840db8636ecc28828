@@ -1,0 +1,4 @@
+font:Montserrat-Bold.ttf
+text:MONDAY
+size:100
+color:ffca00

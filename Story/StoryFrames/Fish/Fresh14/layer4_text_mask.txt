@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:What a nice day
+size:48
+color:ffffff

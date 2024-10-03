@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Check in
+size:24
+color:d49b8c

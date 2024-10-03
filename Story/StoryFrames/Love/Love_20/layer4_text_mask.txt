@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Love Family
+size:63
+color:da963e

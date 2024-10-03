@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:The girl I love
+size:58
+color:ffffff

@@ -1,0 +1,4 @@
+font:Montserrat-Regular.ttf
+text:Lorem ipsum dolor sit amet, consectetuer adipisc
+size:20
+color:ffffff

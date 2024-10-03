@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:WE’R MADE\nTO LOVE
+line:2
+size:120
+color:ffffff

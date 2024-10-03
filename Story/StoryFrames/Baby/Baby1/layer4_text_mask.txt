@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:You will never get out of it alive!
+size:44
+color:ffffff

@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Smile anf have patience
+size:40
+color:517d88

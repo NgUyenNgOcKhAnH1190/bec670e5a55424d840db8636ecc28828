@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Day 1
+size:30
+color:000000

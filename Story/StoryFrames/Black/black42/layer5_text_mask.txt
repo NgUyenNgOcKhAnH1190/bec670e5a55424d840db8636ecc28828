@@ -1,0 +1,5 @@
+font:Montserrat-Medium.ttf
+text:RELAX TIME
+size:85
+color:f6b736
+align:left

@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Small family is always happy
+size:48
+color:565656

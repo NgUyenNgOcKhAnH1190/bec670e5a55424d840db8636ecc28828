@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:HAPPY VACATION
+size:48
+color:ffffff

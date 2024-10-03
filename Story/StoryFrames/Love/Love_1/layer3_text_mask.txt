@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:I looked at your fare… 
+size:48
+color:3b2e26

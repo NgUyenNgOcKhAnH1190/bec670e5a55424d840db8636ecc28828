@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:VACATION
+size:47
+color:ffffff

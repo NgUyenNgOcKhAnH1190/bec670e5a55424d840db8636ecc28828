@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Good bye, see you again
+size:30
+color:ffffff

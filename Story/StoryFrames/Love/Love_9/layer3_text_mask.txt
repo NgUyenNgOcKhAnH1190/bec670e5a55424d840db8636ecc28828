@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Jam Love Mina
+size:48
+color:c08648

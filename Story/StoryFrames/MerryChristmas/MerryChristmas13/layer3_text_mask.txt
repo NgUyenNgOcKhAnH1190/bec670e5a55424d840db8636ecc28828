@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Love Maria
+size:55
+color:6bac8b

@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Get Ready To Travel
+size:85
+color:2e5a86

@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Travel Promo
+size:72
+color:948262

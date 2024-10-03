@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Song of the Sea
+size:60
+color:6d6a68

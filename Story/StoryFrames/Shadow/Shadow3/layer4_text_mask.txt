@@ -1,0 +1,4 @@
+font:FORTE.TTF
+text:I’m not afraid to fall in love
+size:27
+color:747860

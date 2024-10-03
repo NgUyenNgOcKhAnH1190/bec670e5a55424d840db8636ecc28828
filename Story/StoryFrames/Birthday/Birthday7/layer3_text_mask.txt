@@ -1,0 +1,4 @@
+font:comic.ttf
+text:Anna Cute
+size:55
+color:ffffff

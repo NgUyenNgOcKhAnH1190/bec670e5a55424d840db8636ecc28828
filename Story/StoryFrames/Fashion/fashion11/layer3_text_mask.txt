@@ -1,0 +1,5 @@
+font:Montserrat-Regular.ttf
+text:NEW STYLE
+size:30
+color:ffffff
+algin:center

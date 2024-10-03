@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Having someone to love is family
+size:44
+color:000000

@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Love
+size:125
+color:845437

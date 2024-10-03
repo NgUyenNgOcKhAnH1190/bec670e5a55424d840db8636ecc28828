@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:SUMMER 2020
+size:60
+color:000000
+algin:left

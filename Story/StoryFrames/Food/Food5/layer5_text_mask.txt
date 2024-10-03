@@ -1,0 +1,6 @@
+font:Milkshake.ttf
+text:Enjoy\nyour\nfood
+line:3
+size:130
+color:ffffff
+align:center

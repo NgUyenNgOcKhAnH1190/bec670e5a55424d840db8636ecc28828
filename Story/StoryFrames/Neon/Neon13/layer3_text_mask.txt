@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Anna is beautiful
+size:45
+color:3a5237

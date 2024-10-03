@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Bried is life but love is long
+size:32
+color:722d2d

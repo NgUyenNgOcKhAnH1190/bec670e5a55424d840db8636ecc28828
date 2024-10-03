@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:The love of a family is life’s greatest blessing
+size:24
+color:000000

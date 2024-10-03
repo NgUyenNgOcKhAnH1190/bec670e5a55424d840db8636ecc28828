@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:IF WATER WERE KISSES
+size:48
+color:3f6770

@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Our love is simple and happy
+size:30
+color:5a491f

@@ -1,0 +1,4 @@
+font:FORTE.TTF
+text:OFF
+size:72
+color:46a5bf

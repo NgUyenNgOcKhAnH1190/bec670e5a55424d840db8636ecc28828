@@ -1,0 +1,5 @@
+font:Reey-Regular.otf
+text:Style
+size:100
+color:0d270b
+align:left

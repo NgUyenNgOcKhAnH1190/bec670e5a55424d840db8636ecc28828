@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:FOLLOW\nYOUR\nSTYLE
+line:3
+size:80
+color:ffffff

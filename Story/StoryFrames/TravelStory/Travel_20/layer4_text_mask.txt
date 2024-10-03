@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Interesting experience with you
+size:18
+color:000000

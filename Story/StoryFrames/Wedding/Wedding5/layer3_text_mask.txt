@@ -1,0 +1,6 @@
+font:Reey-Regular.otf
+text:Lorem ipsum dolor sit \namet, consectetuer adipi\nscing elit,
+line:3
+size:50
+color:231f20
+align:center

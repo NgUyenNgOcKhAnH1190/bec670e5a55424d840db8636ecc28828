@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:The season of love
+size:90
+color:9d83ae

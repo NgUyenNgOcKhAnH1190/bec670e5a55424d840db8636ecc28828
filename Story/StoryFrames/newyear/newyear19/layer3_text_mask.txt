@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:ENJOY AND HAVE FUN
+size:30
+color:ffffff
+align:left

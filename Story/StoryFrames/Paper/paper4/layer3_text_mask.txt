@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:I LOVE
+size:180
+color:ff25de

@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:Aliuam orcieros, elementum sit  
+size:36
+color:5e5e5e

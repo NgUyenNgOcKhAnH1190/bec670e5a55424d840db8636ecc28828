@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:David Love Laura
+size:60
+color:c4832e

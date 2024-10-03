@@ -1,0 +1,5 @@
+font:FREESCPT.TTF
+text:Happy day
+size:100
+color:ffffff
+algin:center

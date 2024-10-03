@@ -1,0 +1,4 @@
+font:comicbd.ttf
+text:MY FRIEND
+size:65
+color:ffffff

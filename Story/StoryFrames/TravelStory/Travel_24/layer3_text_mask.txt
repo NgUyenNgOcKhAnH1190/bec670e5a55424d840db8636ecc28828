@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:DAY 2
+size:30
+color:000000

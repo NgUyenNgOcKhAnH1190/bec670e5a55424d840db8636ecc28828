@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:LEARN TO EARN
+size:48
+color:000000

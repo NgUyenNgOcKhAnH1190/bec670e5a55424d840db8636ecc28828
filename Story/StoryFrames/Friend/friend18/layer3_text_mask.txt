@@ -1,0 +1,6 @@
+font:Montserrat-Regular.ttf
+text:True friendship \ncomes when\nthe silence\nbetween two\npeople is\ncomfortable.
+line:6
+size:40
+color:000000
+algin:left

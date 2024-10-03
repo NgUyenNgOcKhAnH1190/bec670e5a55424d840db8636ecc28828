@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:No Diamonds.
+size:100
+color:ffffff
+align:left

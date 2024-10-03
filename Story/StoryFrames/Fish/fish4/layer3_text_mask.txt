@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:You Look So Cool
+size:57
+color:2c2c2c

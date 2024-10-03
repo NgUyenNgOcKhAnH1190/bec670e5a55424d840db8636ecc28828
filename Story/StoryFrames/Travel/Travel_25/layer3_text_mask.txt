@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:BEST HOLIDAY
+size:60
+color:ffffff

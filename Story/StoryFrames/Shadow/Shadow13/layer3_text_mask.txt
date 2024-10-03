@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Love Yourself
+size:60
+color:72866e

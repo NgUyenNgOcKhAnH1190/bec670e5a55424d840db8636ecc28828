@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:END OF SEASON
+size:37
+color:24363b

@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Party On Yacht
+size:60
+color:000000

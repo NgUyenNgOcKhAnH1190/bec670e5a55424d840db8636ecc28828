@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:LOVE
+size:36
+color:f3af1e

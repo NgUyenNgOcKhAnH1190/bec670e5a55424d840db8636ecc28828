@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Women’s Day
+size:72
+color:e12a62

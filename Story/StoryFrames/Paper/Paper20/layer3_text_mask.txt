@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:NEW
+size:60
+color:5c6051

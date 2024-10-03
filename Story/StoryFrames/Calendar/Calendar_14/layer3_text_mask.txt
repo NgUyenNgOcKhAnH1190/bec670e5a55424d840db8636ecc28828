@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:love forever
+size:48
+color:f2a541

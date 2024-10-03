@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:Like
+size:120
+color:381808
+align:left

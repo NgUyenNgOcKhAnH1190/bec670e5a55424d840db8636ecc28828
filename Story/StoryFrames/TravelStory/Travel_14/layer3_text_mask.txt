@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Coastal Stopover
+size:30
+color:000000

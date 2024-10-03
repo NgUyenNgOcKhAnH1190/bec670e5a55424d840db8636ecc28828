@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Make them stop and stare
+size:48
+color:ffffff

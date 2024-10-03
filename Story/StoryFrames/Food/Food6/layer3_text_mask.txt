@@ -1,0 +1,4 @@
+font:Montserrat-Bold.ttf
+text:TODAY’S
+size:100
+color:000000

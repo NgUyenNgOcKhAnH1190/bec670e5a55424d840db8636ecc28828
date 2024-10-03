@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Family is like music
+size:44
+color:795834

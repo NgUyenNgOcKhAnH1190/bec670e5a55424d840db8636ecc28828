@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Sale
+size:184
+color:d8b47d

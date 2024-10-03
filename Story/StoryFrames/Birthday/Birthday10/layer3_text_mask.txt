@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:BABY TOM
+size:36
+color:805018

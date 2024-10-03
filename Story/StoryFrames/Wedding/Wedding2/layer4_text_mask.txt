@@ -1,0 +1,4 @@
+font:FREESCPT.TTF
+text:YIBO & ZHAN.
+size:80
+color:ad9781

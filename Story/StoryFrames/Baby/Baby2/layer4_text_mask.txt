@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:It’s A Boy !
+size:65
+color:21706d

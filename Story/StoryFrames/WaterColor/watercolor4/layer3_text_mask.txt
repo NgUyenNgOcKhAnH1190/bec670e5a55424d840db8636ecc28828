@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:70 Year Wedding Anniversary
+size:44
+color:ffffff

@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:BEST FRIEND\nFOREVER
+size:60
+color:000000
+algin:center

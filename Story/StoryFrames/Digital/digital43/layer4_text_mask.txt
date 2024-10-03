@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:New Collection
+size:50
+color:336647
+align:left

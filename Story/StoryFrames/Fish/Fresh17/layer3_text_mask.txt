@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Good Day
+size:60
+color:ffffff

@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Family is the most important thing in the world
+size:20
+color:737373

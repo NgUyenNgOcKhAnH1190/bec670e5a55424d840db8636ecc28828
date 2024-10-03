@@ -1,0 +1,5 @@
+font:comicbd.ttf
+text:I AM  55 WEEK OLD 
+size:52
+color:ffffff
+

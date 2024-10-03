@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Check In The Room
+size:60
+color:000000

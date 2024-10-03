@@ -1,0 +1,4 @@
+font:Pacifico.ttf
+text:YiBo & Zhan
+size:120
+color:af6837

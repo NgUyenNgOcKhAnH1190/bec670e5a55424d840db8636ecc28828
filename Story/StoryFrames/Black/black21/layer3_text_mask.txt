@@ -1,0 +1,5 @@
+font:Reey-Regular.otf
+text:Shine
+size:120
+color:f7cfad
+align:left

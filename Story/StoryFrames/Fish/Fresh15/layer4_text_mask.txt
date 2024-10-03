@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Wish Mina always happy
+size:40
+color:ffffff

@@ -1,0 +1,6 @@
+font:Montserrat-Regular.ttf
+text:Lorem ipsum\ndolor sit amet,\nconsectetuer\nadipiscing elit,\nsed diam 
+line:5
+size:30
+color:ffffff
+align:right

@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Let’s Go Travel
+size:90
+color:ffffff

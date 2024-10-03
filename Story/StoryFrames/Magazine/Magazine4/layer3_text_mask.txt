@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:MAGAZINE\nNEW\nCOLLECTION
+line:3
+size:65
+color:ffffff

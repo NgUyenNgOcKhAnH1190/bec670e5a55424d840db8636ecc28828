@@ -1,0 +1,6 @@
+font:Montserrat-Bold.ttf
+text:BEST\nHOLIDAY\nEVER
+line:3
+size:100
+color:ffffff
+align:left

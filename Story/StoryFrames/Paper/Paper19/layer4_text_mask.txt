@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Be where your feet are
+size:48
+color:5e5e5e

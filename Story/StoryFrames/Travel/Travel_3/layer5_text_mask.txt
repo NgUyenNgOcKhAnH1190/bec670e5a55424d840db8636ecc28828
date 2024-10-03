@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:My Dream Destination
+size:72
+color:886232

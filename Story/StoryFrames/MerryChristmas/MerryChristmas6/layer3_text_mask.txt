@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:A GREAT DAY
+size:30
+color:8d9179

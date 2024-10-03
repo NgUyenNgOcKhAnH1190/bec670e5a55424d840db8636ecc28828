@@ -1,0 +1,6 @@
+font:FREESCPT.TTF
+text:Everything looks cute\nwhen it’s small.
+line:2
+size:50
+color:000000
+algin:right

@@ -1,0 +1,4 @@
+font:ARIALBI.TTF
+text:UP TO 
+size:60
+color:ffffff

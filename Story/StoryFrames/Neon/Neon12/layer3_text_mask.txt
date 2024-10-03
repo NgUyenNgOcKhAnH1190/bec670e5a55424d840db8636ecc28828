@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Hey
+size:60
+color:ffd074

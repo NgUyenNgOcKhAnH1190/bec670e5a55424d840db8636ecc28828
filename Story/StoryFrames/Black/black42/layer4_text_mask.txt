@@ -1,0 +1,5 @@
+font:Montserrat-Medium.ttf
+text:GREAT
+size:110
+color:f6b736
+align:left

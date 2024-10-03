@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Family 
+size:72
+color:835b4c

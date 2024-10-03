@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:ROOM CHECKING
+size:30
+color:deb035

@@ -1,0 +1,4 @@
+font:Microsoft Himalaya.ttf
+text:MAGAZINE
+size:200
+color:000000

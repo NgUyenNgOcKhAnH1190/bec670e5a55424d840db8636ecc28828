@@ -1,0 +1,4 @@
+font:FORTE.TTF
+text:It’s a Girl
+size:134
+color:ffffff

@@ -1,0 +1,4 @@
+font:ARIALBI.TTF
+text:MONTH OF LUCKY
+size:36
+color:000000

@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:GREAT
+size:90
+color:f6b736

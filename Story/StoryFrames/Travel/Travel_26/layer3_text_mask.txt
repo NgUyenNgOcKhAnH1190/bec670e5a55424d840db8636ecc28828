@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:EXPLORE THE WORLD
+size:60
+color:000000

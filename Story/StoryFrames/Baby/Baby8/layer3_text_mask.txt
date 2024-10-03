@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Tom Happy 
+size:109
+color:ffffff

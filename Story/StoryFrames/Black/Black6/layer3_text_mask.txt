@@ -1,0 +1,4 @@
+font:Montserrat-Regular.ttf
+text:TAKE
+size:70
+color:9bff00

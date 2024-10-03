@@ -1,0 +1,5 @@
+font:Microsoft Himalaya.ttf
+text:BE BLING
+size:180
+color:ffffff
+align:right

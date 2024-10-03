@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:but one who loves one woman for life
+size:48
+color:5c3b22

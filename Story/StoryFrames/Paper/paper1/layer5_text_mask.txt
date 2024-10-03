@@ -1,0 +1,4 @@
+font:MyriadPro-BlackSemiCn.otf
+text:Gentleman.
+size:48
+color:ffbc00

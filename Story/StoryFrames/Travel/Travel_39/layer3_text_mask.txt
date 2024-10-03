@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:JOIN NOW & GET
+size:24
+color:fe7800

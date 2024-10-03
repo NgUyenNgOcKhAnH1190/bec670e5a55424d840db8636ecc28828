@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:The family is one of nature’s masterpiece
+size:20
+color:ffffff

@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Life is short
+size:48
+color:747959

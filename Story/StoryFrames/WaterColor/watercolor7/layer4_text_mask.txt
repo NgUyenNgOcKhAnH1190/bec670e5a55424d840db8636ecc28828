@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:EMMA & PETER
+size:72
+color:2d4017

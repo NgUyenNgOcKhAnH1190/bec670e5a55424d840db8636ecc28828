@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Let Go 
+size:70
+color:ffffff

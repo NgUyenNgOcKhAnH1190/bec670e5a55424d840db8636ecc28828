@@ -1,0 +1,4 @@
+font:MYRIADPRO-REGULAR.OTF
+text:HAPPY
+size:58
+color:ffffff

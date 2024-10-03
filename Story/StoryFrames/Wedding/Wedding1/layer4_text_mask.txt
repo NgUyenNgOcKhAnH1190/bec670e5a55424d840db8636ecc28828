@@ -1,0 +1,5 @@
+font:Roboto-Regular.ttf
+text:INVITE YOU TO CELEBRATE\nTHE JOY OF THEIR WEDDING DAY
+line:2
+size:25
+color:826c55

@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:10/10/2021
+size:48
+color:1a2258

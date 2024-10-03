@@ -1,0 +1,4 @@
+font:Montserrat-Regular.ttf
+text:WHITE CHURCH, YOUR ADDRESS HERE, COUNTRY
+size:20
+color:414141

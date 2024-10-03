@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:USERNAME
+size:20
+color:000000
+align:center

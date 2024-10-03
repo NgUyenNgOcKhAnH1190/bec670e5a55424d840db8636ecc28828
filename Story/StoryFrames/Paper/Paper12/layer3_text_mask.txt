@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:My Life
+size:60
+color:728794

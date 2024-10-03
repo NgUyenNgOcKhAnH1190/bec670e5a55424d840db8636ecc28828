@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Go home and love your family.
+size:24
+color:000000

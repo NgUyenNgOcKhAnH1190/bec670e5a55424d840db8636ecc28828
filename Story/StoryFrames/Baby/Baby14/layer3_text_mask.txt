@@ -1,0 +1,4 @@
+font:comicbd.ttf
+text:Baby Jun
+size:67
+color:397f9e

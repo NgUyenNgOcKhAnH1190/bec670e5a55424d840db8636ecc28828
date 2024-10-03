@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:Lorem ipsum\ndolor sit amet,\nconsectetuer 
+line:3
+size:30
+color:000000

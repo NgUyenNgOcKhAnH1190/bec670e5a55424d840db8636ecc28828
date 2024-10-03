@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:FASHION\nMAGA
+size:80
+color:ca9a76
+algin:left

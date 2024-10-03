@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Beautiful Day
+size:95
+color:ffffff

@@ -1,0 +1,4 @@
+font:ARIALBI.TTF
+text:HELLO SUMMER
+size:48
+color:ffffff

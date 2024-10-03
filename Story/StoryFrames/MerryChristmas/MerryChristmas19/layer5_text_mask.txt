@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Love means you never have to say you’re sorry 
+size:36
+color:656565

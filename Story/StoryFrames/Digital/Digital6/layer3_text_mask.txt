@@ -1,0 +1,4 @@
+font:SVN-Agency FB.ttf
+text:You so Beautiful
+size:35
+color:ffffff

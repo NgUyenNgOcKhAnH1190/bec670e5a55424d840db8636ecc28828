@@ -1,0 +1,4 @@
+font:Montserrat-Regular.ttf
+text:COLOR
+size:60
+color:ffffff

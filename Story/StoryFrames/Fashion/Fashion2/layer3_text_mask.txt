@@ -1,0 +1,5 @@
+font:Montserrat-Regular.ttf
+text:This day I’ll cherish\nYou look so beautiful in white, to
+line:2
+size:36
+color:000000

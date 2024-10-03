@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Travel 
+size:72
+color:212121

@@ -1,0 +1,4 @@
+font:Roboto-Regular.ttf
+text:BEST FRIEND
+size:36
+color:009ce2

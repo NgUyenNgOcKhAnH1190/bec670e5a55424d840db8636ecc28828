@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:SUMER STYLE
+size:70
+color:3f3e40
+algin:center

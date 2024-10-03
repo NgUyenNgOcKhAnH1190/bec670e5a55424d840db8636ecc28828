@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:GO TO THE BEACH
+size:28
+color:ffffff

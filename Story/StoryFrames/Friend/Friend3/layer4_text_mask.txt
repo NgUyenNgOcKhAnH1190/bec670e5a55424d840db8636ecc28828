@@ -1,0 +1,4 @@
+font:Microsoft Himalaya.ttf
+text:FRIENDSHIP DAY
+size:80
+color:41434e

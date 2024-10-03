@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Christmas
+size:60
+color:2c5b2a

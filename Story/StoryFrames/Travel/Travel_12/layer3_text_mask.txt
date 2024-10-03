@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:Adventure
+size:48
+color:ffffff

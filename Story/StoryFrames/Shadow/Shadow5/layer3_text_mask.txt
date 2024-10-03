@@ -1,0 +1,4 @@
+font:comic.ttf
+text:Hello My Girl
+size:48
+color:255a37

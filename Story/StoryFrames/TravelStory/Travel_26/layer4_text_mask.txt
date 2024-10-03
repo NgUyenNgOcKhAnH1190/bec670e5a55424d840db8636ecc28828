@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Good Bye, See You Again
+size:36
+color:000000

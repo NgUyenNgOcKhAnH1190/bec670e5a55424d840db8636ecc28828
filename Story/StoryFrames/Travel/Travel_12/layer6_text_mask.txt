@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:UP TO 50% OFF
+size:60
+color:ffffff

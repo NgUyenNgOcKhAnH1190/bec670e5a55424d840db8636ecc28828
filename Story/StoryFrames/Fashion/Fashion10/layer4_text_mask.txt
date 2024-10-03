@@ -1,0 +1,6 @@
+font:Montserrat-Bold.ttf
+text:FASHION\nNEW STYLE
+line:2
+size:50
+color:000000
+align:center

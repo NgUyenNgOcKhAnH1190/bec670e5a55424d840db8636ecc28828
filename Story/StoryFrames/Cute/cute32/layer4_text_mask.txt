@@ -1,0 +1,5 @@
+font:FREESCPT.TTF
+text:Cute Pet’s
+size:110
+color:304d63
+algin:left

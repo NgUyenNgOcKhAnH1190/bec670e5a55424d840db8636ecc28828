@@ -1,0 +1,5 @@
+font:Microsoft Himalaya.ttf
+text:GOOD FOOD
+size:150
+color:a4535e
+algin:center

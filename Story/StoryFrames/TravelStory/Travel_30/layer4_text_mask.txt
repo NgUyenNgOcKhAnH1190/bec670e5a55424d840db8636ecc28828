@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Poolside Party
+size:60
+color:000000

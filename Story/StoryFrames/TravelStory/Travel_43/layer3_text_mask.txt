@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Photo Anniversary Picnic
+size:36
+color:714721

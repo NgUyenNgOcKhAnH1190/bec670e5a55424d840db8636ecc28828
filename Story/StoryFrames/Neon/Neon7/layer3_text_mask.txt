@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Greeting The New Day
+size:36
+color:ffffff

@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:50% OFF
+size:72
+color:ffffff

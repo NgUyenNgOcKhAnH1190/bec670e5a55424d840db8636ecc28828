@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Have Appointment In May
+size:42
+color:5e5e5e

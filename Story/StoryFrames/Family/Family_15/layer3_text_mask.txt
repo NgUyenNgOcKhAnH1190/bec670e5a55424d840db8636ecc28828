@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:FAMILY IS ALL
+size:46
+color:e9ab48

@@ -1,0 +1,4 @@
+font:ARIALBI.TTF
+text:THE WORLD
+size:99
+color:000000

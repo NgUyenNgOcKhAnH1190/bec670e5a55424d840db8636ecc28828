@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:BEAUTIFUL GIRL
+size:55
+color:ffffff

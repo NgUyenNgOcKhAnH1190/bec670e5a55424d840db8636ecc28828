@@ -1,0 +1,5 @@
+font:Montserrat-Regular.ttf
+text:MOMMENT
+size:25
+color:e45e6e
+align:center

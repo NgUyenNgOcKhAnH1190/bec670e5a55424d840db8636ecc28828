@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Our destination is not a land, but a new way of looking
+size:36
+color:136485

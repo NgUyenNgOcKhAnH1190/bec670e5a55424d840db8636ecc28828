@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:SALE 30% OFF
+size:48
+color:ffffff

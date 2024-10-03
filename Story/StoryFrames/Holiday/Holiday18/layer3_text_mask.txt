@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Happy Valentine’s Day
+size:48
+color:e12a62

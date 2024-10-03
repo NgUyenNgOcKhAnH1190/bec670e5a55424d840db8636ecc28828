@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:If you have a place to go, is a home
+size:55
+color:ffffff

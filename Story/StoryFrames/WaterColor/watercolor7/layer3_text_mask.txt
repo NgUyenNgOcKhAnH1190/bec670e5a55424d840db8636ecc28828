@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:ENGAGMENT PARTY
+size:36
+color:65774f

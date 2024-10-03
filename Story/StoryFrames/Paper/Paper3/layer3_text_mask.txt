@@ -1,0 +1,4 @@
+font:MyriadPro-BlackSemiCn.otf
+text:newlookbook
+size:59
+color:5a3f1b

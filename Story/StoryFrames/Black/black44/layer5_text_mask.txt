@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:A DIAMOND
+size:50
+color:ffffff
+align:left

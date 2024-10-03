@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:2021
+size:200
+color:ffffff
+align:right

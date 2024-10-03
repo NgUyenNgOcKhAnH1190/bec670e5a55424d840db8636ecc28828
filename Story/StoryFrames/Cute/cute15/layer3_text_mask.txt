@@ -1,0 +1,5 @@
+font:Pacifico.ttf
+text:Little Prince
+size:120
+color:ffffff
+algin:left

@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:I LOVE YOU
+size:36
+color:353535

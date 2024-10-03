@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:30% OFF
+size:53
+color:136485

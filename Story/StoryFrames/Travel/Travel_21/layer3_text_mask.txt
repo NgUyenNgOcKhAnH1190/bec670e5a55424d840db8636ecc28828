@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Sale
+size:60
+color:ffffff

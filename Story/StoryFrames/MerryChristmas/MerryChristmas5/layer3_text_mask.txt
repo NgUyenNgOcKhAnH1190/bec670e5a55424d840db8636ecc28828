@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Small family
+size:30
+color:232323

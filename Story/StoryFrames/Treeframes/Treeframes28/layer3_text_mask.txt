@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Having someone to love is family
+size:24
+color:000000

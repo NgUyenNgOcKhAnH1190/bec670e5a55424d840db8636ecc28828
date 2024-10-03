@@ -1,0 +1,4 @@
+font:FORTE.TTF
+text:Valentine’s
+size:130
+color:ffffff

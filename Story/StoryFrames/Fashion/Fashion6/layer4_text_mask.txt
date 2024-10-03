@@ -1,0 +1,6 @@
+font:Microsoft Himalaya.ttf
+text:NEW\nCOLLECTION
+line:2
+size:150
+color:000000
+align:center

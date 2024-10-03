@@ -1,0 +1,4 @@
+font:VNI-Truck.TTF
+text:John Doe
+size:99
+color:7bc3ec

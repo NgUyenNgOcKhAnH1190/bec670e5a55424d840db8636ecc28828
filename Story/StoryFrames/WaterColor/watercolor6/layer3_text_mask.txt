@@ -1,0 +1,4 @@
+font:comicbd.ttf
+text:Mery & Tom
+size:48
+color:ffffff

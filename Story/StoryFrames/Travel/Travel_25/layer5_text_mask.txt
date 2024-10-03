@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:rather than miles
+size:48
+color:684c42

@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:By Rainer Maria Rilke 
+size:60
+color:6d6a68

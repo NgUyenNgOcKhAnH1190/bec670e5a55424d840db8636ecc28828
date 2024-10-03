@@ -1,0 +1,6 @@
+font:Montserrat-Regular.ttf
+text:FRIENDS\nmake the world\nBEAUTIFUL
+line:3
+size:40
+color:000000
+align:left

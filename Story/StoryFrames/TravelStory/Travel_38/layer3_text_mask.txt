@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:See you again
+size:36
+color:000000

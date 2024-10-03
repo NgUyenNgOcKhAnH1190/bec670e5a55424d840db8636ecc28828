@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:Lorem ipsum
+size:69
+color:ffbd00

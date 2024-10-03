@@ -1,0 +1,5 @@
+font:FORTE.TTF
+text:Orange Soda
+size:78
+color:7bb1cc
+rotate:-45

@@ -1,0 +1,5 @@
+font:Microsoft Himalaya.ttf
+text:DAISY’s
+size:200
+color:00375b
+algin:center

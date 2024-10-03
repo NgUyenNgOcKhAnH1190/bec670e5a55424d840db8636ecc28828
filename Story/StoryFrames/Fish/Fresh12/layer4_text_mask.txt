@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:FRIDAY, OCTOBER 30
+size:33
+color:ffffff

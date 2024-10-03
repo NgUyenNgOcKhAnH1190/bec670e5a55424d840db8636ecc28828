@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:Beautiful GIRL
+size:100
+color:feb7c1
+algin:left

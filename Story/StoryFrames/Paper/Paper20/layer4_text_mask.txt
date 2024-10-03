@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:ARRIVAL
+size:48
+color:b2a072

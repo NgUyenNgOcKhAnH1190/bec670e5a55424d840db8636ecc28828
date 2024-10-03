@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:DISCOVER
+size:60
+color:ffffff

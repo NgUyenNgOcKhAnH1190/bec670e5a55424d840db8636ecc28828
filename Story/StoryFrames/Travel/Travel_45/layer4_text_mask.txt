@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:EXPLORE
+size:48
+color:000000

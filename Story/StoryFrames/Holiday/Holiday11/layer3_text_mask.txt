@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Jam love Tina
+size:78
+color:d12b37

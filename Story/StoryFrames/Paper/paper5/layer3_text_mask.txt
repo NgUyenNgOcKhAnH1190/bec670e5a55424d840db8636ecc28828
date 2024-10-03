@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Hello Sai Gon
+size:115
+color:394c5d

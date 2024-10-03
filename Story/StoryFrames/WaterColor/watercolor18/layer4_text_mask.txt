@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:Invite you to their wedding
+size:30
+color:353535

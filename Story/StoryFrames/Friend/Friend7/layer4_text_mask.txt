@@ -1,0 +1,4 @@
+font:Roboto-Regular.ttf
+text:SPECIAL
+size:110
+color:ffffff

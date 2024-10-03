@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Come back
+size:100
+color:70fff7

@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Love means you never have to say you’re sorry
+size:40
+color:6c4414

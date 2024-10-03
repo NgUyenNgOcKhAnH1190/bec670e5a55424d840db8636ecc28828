@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:I would rather walk with a friend in the dark
+size:38
+color:000000

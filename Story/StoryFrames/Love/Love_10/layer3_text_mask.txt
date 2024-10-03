@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Love forever Anna
+size:50
+color:af8249

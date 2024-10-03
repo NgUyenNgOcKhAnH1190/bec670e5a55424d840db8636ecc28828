@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Love you forever
+size:24
+color:000000

@@ -1,0 +1,5 @@
+font:Pacifico.ttf
+text:Save\nthe date
+line:2
+size:120
+color:ffffff

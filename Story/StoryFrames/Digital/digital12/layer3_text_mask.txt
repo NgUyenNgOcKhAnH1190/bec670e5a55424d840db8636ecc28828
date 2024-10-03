@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:YOUR FUN MOMENT
+size:50
+color:002f93
+algin:center

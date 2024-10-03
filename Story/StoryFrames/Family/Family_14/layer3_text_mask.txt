@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Family where the life begins
+size:48
+color:5c604a

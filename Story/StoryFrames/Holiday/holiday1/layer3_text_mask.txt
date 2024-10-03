@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Tom
+size:60
+color:ffc881

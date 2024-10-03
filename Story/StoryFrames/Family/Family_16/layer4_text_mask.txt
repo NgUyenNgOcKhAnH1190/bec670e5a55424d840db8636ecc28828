@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:FAMILY
+size:48
+color:ffffff

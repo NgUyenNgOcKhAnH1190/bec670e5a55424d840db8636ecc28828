@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:AFTERNOON - DAY 1
+size:18
+color:ffffff

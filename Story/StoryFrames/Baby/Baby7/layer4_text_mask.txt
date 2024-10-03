@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:10 July 2020
+size:43
+color:ff8d28

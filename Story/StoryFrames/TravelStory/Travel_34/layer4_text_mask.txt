@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:And Lunch
+size:48
+color:000000

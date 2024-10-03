@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Summer Colection
+size:65
+color:ffffff

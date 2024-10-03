@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Happy with the person I love
+size:30
+color:141414

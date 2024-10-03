@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:BIG SALE
+size:99
+color:e16bff

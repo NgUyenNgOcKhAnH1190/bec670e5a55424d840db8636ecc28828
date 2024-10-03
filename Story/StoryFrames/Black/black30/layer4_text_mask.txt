@@ -1,0 +1,5 @@
+font:Pacifico.ttf
+text:#Trend
+size:100
+color:ffffff
+align:left

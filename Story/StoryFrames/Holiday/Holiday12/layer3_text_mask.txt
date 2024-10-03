@@ -1,0 +1,4 @@
+font:comicbd.ttf
+text:HAPPY
+size:60
+color:ffffff

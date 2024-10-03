@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Who brings out the best in me
+size:48
+color:623f21

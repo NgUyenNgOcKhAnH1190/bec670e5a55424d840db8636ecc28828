@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Love Forever
+size:72
+color:ffffff

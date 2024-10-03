@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Love Grandma
+size:48
+color:ffffff

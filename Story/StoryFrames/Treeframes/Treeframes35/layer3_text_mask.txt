@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Rejoice with your family in the beautiful land of life!
+size:18
+color:000000

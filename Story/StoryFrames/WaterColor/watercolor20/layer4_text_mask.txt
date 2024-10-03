@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:FOREVER IS LOVE
+size:30
+color:ffffff

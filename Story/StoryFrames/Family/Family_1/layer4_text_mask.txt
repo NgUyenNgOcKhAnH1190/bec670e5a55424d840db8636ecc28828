@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:is the most important thing in the world
+size:48
+color:835b4c

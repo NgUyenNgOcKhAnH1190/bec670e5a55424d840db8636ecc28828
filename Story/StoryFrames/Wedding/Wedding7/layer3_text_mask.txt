@@ -1,0 +1,5 @@
+font:Reey-Regular.otf
+text:Lorem ipsum dolor\nsit amet, consec\ntetuer
+line:3
+size:50
+color:231f20

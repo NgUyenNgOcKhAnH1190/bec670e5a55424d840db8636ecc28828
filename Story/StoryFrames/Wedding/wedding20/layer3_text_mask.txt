@@ -1,0 +1,6 @@
+font:Pacifico.ttf
+text:For sharing our \nspecial day with us
+line:2
+size:75
+color:89713e
+algin:center

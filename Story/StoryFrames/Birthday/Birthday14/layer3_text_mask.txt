@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Julia
+size:60
+color:67ecfc

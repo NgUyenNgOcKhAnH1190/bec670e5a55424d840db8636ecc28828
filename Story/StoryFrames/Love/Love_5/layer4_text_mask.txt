@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:My best friend is the one 
+size:48
+color:623f21

@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:IT’S MONDAY
+size:100
+color:f0efeb
+align:center

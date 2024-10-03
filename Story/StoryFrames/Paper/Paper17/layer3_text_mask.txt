@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Feugiat
+size:130
+color:897f65

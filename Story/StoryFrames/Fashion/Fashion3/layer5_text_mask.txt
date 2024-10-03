@@ -1,0 +1,6 @@
+font:Montserrat-Regular.ttf
+text:YOUR BRAND
+size:70
+color:ffffff
+rotate:-90
+left:-186.45-962.214

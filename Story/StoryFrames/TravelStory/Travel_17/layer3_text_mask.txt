@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Evening Party
+size:54
+color:000000

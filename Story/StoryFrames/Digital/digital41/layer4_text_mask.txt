@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:THE CYBER AGE
+size:80
+color:c9b5f5
+align:left

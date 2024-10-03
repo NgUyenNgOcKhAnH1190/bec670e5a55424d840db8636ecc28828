@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:Promo
+size:140
+color:ffffff

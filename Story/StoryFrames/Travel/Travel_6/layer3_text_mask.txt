@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:50%
+size:48
+color:ffffff

@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:MAGAZINE
+size:100
+color:ffffff
+algin:center

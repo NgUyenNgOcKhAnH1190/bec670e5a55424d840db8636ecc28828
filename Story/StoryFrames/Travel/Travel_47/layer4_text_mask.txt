@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:Flight
+size:140
+color:000000

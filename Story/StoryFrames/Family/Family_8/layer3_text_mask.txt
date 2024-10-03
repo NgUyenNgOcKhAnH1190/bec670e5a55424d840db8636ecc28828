@@ -1,0 +1,4 @@
+font:comic.ttf
+text:Dad is a son’s first hero
+size:48
+color:ffffff

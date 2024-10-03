@@ -1,0 +1,4 @@
+font:FORTE.TTF
+text:Cherry
+size:58
+color:ff8d28

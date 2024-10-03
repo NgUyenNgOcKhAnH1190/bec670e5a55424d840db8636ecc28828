@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:EXPERIENCE TOGETHER
+size:24
+color:ffffff

@@ -1,0 +1,6 @@
+font:Pacifico.ttf
+text:When nothing\ngoes right,\ngo left.
+line:3
+size:100
+color:ffffff
+align:center

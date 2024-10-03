@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:To understand your parents’ love
+size:18
+color:af7a83

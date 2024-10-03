@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:ENJOY
+size:82
+color:ffffff

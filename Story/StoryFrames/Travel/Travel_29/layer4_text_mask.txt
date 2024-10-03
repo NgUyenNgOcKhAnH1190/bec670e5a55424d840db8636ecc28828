@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:summer
+size:120
+color:ffffff

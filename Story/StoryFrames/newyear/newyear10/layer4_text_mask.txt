@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:NEW YEAR
+size:90
+color:ffffff
+align:center

@@ -1,0 +1,4 @@
+font:FORTE.TTF
+text:12 Months 10 Day
+size:44
+color:a65e1e

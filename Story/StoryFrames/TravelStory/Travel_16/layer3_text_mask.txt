@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:HAPPY LUNCH
+size:24
+color:000000

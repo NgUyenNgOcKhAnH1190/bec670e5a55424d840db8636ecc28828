@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:THIS WEEK ONLY!
+size:24
+color:ffffff

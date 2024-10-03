@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:GREAT
+size:60
+color:ffffff

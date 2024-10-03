@@ -1,0 +1,4 @@
+font:FORTE.TTF
+text:Cherry Beautiful
+size:48
+color:000000

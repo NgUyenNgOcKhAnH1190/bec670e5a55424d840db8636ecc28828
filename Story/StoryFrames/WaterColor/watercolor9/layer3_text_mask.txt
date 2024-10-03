@@ -1,0 +1,4 @@
+font:comicbd.ttf
+text:Love Forever
+size:60
+color:ffffff

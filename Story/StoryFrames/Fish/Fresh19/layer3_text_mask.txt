@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Simple Love
+size:60
+color:c22652

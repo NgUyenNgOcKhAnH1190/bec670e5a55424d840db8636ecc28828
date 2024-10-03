@@ -1,0 +1,4 @@
+font:ARIALBI.TTF
+text:BOOK NOW
+size:36
+color:ffffff

@@ -1,0 +1,4 @@
+font:comicbd.ttf
+text:Happy Friend
+size:50
+color:ffffff

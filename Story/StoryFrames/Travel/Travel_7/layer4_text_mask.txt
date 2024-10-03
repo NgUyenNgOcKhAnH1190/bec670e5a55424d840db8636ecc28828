@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:A journey is best measured in friends. rather than miles
+size:40
+color:ffffff

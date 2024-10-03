@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Camping with friends
+size:45
+color:ffffff

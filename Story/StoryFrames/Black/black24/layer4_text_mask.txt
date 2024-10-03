@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:No Rain
+size:100
+color:ffc501
+align:left

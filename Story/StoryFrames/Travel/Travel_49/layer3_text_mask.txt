@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:LET’s
+size:72
+color:000000

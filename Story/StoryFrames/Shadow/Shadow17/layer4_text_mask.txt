@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:if you don’t love yourself?
+size:48
+color:23454d

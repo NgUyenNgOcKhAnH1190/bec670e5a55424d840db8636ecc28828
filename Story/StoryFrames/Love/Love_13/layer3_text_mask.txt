@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Love Is In The Air
+size:78
+color:f07853

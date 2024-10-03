@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:SALE
+size:48
+color:d7641f

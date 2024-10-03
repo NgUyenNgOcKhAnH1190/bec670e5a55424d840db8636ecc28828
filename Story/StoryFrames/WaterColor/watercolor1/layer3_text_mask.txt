@@ -1,0 +1,4 @@
+font:comicbd.ttf
+text:SAY HELLO!  
+size:61
+color:ffffff

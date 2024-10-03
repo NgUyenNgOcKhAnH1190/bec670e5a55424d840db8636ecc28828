@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Let the sea set you free
+size:36
+color:eb7731

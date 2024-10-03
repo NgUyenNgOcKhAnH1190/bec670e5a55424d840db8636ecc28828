@@ -1,0 +1,5 @@
+font:Pacifico.ttf
+text:with a DREAM
+size:80
+color:ffffff
+algin:center

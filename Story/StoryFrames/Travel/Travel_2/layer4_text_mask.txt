@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:GET UP TO 50% OFF
+size:30
+color:2f5c86

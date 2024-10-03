@@ -1,0 +1,4 @@
+font:Roboto-Regular.ttf
+text:HAPPY
+size:90
+color:ffffff

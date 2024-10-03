@@ -1,0 +1,5 @@
+font:FREESCPT.TTF
+text:RAINBOW
+size:100
+color:ff6081
+algin:center

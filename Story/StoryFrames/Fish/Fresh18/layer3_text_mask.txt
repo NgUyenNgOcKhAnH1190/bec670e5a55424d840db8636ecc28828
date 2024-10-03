@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Hello Summer
+size:48
+color:f27d16

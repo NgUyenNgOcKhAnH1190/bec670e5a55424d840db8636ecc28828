@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:Happy Everyday
+size:36
+color:ff682d

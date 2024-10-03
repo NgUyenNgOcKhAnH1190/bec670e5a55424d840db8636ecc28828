@@ -1,0 +1,4 @@
+font:Roboto-Regular.ttf
+text:Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+size:20
+color:000000

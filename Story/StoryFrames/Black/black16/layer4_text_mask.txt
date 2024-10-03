@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:PHOTOGRAPHY
+size:40
+color:ffffff
+algin:center

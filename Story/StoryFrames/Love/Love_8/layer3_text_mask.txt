@@ -1,0 +1,4 @@
+font:Brush Script MT
+text:Love Forever
+size:30
+color:bc3636

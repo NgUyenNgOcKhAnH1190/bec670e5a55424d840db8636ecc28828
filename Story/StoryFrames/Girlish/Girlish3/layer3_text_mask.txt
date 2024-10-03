@@ -1,0 +1,5 @@
+font:Montserrat-Regular.ttf
+text:WHAT’S ON\nYOUR TABLE\nTHIS WEEK.
+line:3
+size:40
+color:ffffff

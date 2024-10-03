@@ -1,0 +1,6 @@
+font:Montserrat-Bold.ttf
+text:2021
+size:130
+color:ffffff
+rotate:90
+left:-46 pt-126 pt

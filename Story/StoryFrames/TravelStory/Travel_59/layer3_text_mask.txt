@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Happy Dinner
+size:45
+color:000000

@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Families are the compass that guides us
+size:30
+color:336d72

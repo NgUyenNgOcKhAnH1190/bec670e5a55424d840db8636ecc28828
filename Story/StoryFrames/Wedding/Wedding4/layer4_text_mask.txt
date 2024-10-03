@@ -1,0 +1,4 @@
+font:Reey-Regular.otf
+text:B & X
+size:30
+color:23375f

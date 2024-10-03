@@ -1,0 +1,5 @@
+font:Microsoft Himalaya.ttf
+text:LUCK
+size:400
+color:000000
+algin:center

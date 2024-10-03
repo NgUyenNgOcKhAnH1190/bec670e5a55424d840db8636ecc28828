@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:E  N  J  O  Y
+size:49
+color:000000

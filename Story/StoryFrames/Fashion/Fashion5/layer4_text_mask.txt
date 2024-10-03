@@ -1,0 +1,4 @@
+font:Montserrat-Regular.ttf
+text:# yourname
+size:30
+color:39455c

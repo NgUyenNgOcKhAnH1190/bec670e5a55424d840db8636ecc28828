@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:Holiday
+size:120
+color:000000

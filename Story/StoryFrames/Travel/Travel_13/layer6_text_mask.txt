@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:BOOK NOW
+size:30
+color:71e6ff

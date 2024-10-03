@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:FASHION
+size:100
+color:3b403a
+algin:left

@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Cause you are my life …
+size:48
+color:4b4434

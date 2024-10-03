@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:Your Place, Your street, your city
+size:35
+color:ffffff
+align:center

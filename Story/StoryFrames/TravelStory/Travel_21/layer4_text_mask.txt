@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:LUNCH IN THE FOREST
+size:30
+color:000000

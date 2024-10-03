@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:BEST DAY EVER
+size:70
+color:ffffff
+align:center

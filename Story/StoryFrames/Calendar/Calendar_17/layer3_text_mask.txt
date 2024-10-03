@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Wishing a very Happy Vietnamese Women’s
+size:45
+color:d57f23

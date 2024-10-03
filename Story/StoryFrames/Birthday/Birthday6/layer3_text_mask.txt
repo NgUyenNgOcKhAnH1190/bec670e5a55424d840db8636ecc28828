@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:May 20, 8 PM
+size:44
+color:4e1b75

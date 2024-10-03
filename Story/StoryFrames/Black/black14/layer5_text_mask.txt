@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:COVER $10 / FREE PARKING / COCKTAIL BAR
+size:23
+color:2d95ff
+algin:left

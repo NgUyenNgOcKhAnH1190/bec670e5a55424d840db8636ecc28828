@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Light Club
+size:48
+color:4e4e6e

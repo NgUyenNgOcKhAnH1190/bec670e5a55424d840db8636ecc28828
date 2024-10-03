@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:I Love Ria
+size:72
+color:d9002d

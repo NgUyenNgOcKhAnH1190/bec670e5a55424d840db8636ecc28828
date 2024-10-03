@@ -1,0 +1,4 @@
+font:Montserrat-Bold.ttf
+text:SPOTLIGHT
+size:120
+color:ffffff

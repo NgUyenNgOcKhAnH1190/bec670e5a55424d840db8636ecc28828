@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Happy
+size:60
+color:38612b

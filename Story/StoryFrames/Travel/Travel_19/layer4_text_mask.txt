@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:TRAVEL
+size:80
+color:000000

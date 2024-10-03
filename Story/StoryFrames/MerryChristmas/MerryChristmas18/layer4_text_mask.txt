@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Christmas
+size:72
+color:ffffff

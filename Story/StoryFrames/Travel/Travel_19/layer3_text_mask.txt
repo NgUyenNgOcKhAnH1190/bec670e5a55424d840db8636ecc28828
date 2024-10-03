@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:TIME TO
+size:48
+color:ffffff

@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:OUTFIT OF THE DAY
+size:50
+color:000000
+algin:center

@@ -1,0 +1,4 @@
+font:VNI-Briquet Normal.TTF
+text:Together forever
+size:30
+color:5a491f

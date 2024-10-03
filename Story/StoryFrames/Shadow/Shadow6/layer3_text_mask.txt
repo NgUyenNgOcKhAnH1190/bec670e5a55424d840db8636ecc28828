@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Hello April Girl
+size:60
+color:2e5e1b

@@ -1,0 +1,4 @@
+font:ARIAL.TTF
+text:TRAVEL PLACE
+size:50
+color:ffffff

@@ -1,0 +1,5 @@
+font:Montserrat-Refular.ttf
+text:Happy Anniversary
+size:50
+color:000000
+algin:center

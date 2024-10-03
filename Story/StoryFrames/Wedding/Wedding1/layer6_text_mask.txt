@@ -1,0 +1,4 @@
+font:Montserrat-Regular.ttf
+text:White church, your address here, country
+size:20
+color:826c55

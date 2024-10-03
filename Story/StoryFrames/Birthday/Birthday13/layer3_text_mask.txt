@@ -1,0 +1,4 @@
+font:comicbd.ttf
+text:BABY
+size:48
+color:ffffff

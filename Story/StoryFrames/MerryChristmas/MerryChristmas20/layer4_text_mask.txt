@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Christmas
+size:150
+color:ffd57a

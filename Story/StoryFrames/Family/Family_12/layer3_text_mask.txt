@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:The family is one of nature’s masterpiece
+size:48
+color:474747

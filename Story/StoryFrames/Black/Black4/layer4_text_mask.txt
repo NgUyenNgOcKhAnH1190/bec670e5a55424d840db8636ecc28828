@@ -1,0 +1,4 @@
+font:Montserrat-Regular.ttf
+text:Made to Love
+size:50
+color:ffffff

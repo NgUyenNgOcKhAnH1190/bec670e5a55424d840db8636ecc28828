@@ -1,0 +1,5 @@
+font:Montserrat-Regular.ttf
+text:#FRIENDSHIP’S DAY
+size:40
+color:000000
+algin:center

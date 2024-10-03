@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:LOVE IN THE ICE
+size:60
+color:ffffff
+algin:center

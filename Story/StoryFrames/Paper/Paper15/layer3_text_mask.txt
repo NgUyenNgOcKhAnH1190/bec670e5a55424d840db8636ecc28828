@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:AESTHETIC
+size:120
+color:ffffff

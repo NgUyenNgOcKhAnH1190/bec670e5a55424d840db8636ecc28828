@@ -1,0 +1,4 @@
+font:brush script mt kursiv.ttf
+text:Together forever
+size:48
+color:1e595a

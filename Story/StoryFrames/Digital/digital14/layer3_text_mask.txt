@@ -1,0 +1,5 @@
+font:Montserrat-Bold.ttf
+text:#YOURNAME
+size:40
+color:ffffff
+algin:left

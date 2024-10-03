@@ -1,0 +1,4 @@
+font:BROADW.TTF
+text:HAPPY
+size:24
+color:ffffff

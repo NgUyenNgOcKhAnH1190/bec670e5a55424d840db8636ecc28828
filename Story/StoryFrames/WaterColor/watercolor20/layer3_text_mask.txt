@@ -1,0 +1,4 @@
+font:ARIALBD.TTF
+text:MARIA'S PAINTING
+size:46
+color:000000

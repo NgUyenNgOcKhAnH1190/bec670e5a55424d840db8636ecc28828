@@ -1,0 +1,4 @@
+font:HARLOWSI.TTF
+text:Happy
+size:48
+color:2c5b2a

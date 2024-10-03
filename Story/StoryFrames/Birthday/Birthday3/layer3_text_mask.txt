@@ -1,0 +1,4 @@
+font:FORTE.TTF
+text:TO YOU
+size:45
+color:ffffff
